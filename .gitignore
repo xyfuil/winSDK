@@ -12,6 +12,8 @@
 **/[Bb]in/
 **/[Oo]bj/
 
+**/*.db
+
 # Compiled Object files
 *.slo
 *.lo
